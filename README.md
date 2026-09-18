@@ -113,9 +113,6 @@ Every browser load generates:
 
 The dataset is generated locally and is not intended to represent real business data.
 
-## Screenshots
-
-Add portfolio screenshots here after deployment.
 
 ## Portfolio Purpose
 
